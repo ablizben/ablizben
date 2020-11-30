@@ -26,10 +26,10 @@ I'm a newbie developer who just recently graduated in a Full Stack Web Developme
 - More react frameworks
 
 
-
-## Wanna Talk? 🌎:
+## Wanna Talk or See What I'm Doing? 🌎:
 
 - Tweet at me on <a href="https://twitter.com/ablizben">Twitter</a> 
 - Connect with me on <a href="https://www.linkedin.com/in/abigail-benjamin-b1a881154/">LinkedIn</a>
+- Check out my apps through certifications on <a href="https://codepen.io/ablizben">CodePen</a>
 
 
