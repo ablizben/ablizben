@@ -23,7 +23,7 @@ I'm a newbie developer who just recently graduated in a Full Stack Web Developme
 ## Future ⏳:
 
 - Next.js
-- More react frameworks
+- Python
 
 
 ## Wanna Talk or See What I'm Doing? 🌎:
