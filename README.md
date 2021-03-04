@@ -22,6 +22,5 @@ I'm a developer with a certificate in a Full Stack Web Development boot camp thr
 
 - Tweet at me on <a href="https://twitter.com/ablizben">Twitter</a> 
 - Connect with me on <a href="https://www.linkedin.com/in/abigail-benjamin-b1a881154/">LinkedIn</a>
-- Check out my apps for my certifications on <a href="https://codepen.io/ablizben">CodePen</a>
 
 
