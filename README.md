@@ -7,14 +7,14 @@ I'm a developer with a certificate in a Full Stack Web Development boot camp thr
 
 - JavaScript
 - MongoDB
-- Express.js
-- React.js
-- Node.js
+- Express
+- React
+- Nod
 
 
 ## Future ⏳:
 
-- Next.js
+- Next
 - Python
 
 
