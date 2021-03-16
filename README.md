@@ -9,7 +9,7 @@ I'm a developer with a certificate in a Full Stack Web Development boot camp thr
 - MongoDB
 - Express
 - React
-- Nod
+- Node
 
 
 ## Future ⏳:
