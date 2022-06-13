@@ -1,12 +1,12 @@
 # Hi there, I'm Abby 👩🏻‍💻
 
-I'm a developer with a certificate in a Full Stack Web Development boot camp through Trilogy & The Johns Hopkins University based in the Baltimore area. I'm excited to dive deeper into my coding journey and looking forward to enjoying the ride. Personally, I'm a huge horror/slasher film nerd 👻 and channel my coding frustrations through boxing 🥊 
+I'm a software engineer with a lean toward UI/UX or frontend work. Personally, I love anything related to horror/slasher films, teaching my dog new tricks, and boxing 🥊.
 
 
 ## Currently ☑️:
 
 - JavaScript
-- MongoDB
+- PHP
 - Express
 - React
 - Node
